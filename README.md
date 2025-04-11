@@ -2,6 +2,7 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Willkommen+auf+meinem+Profil;Ich+bin+eine+Full+Stack+Entwicklerin)
   <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/science%20fiction%20space%20GIF%20by%20xponentialdesign.gif" alt="Sci-fi Space" width="50%" height="auto" />
+  
   💫 Hallo, ich bin Zoia – eine leidenschaftliche Entdeckerin des digitalen Universums!  
   🌠 Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
