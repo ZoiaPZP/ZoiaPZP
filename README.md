@@ -1,10 +1,8 @@
 # **Hallo, ich bin Zoia** 👋
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Willkommen+auf+meinem+Profil;Ich+bin+eine+Full+Stack+Entwicklerin)
-
 <p align="center" style="position: relative; width: 100%; height: 400px;">
-  <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/space-light.gif" alt="Sci-fi Space" width="100%" height="100%" style="object-fit: cover;"/>
-  <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 30px; color: white; font-weight: bold; animation: moveText 10s infinite;">
+  <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/space-light.gif" alt="Sci-fi Space" width="100%" height="100%" style="object-fit: cover;" />
+  <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 30px; color: white; font-weight: bold; animation: moveText 10s linear infinite;">
     Willkommen auf meinem Profil, ich bin eine Full-Stack-Entwicklerin! 🌌
   </p>
 </p>
