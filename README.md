@@ -11,14 +11,14 @@
 ## My stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-%23000?style=for-the-badge&logo=test-rail&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-%234D8B31.svg?style=for-the-badge&logo=test-rail&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%232D2D2D.svg?style=for-the-badge&logo=xml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23F7A600.svg?style=for-the-badge&logo=xml&logoColor=white)  <!-- Яскраво жовтий для XML -->
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Trello](https://img.shields.io/badge/Trello-%23002630.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
 
 
 
