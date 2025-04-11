@@ -1,6 +1,7 @@
 # **Hallo, ich bin Zoia** 👋
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Willkommen+auf+meinem+Profil;Ich+bin+eine+Full+Stack+Entwicklerin)
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/space-light.gif" alt="Space Light GIF">
 
 <p align="center" style="position: relative; width: 100%; height: 400px;">
   <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/space-light.gif" alt="Sci-fi Space" width="100%" height="100%" style="object-fit: cover;"/>
