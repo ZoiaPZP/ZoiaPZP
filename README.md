@@ -3,9 +3,7 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=435&lines=Willkommen+auf+meinem+Profil!;Ich+bin+eine+Front-End-Entwicklerin!)
   <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/science%20fiction%20space%20GIF%20by%20xponentialdesign.gif" alt="Sci-fi Space" width="100%" height="200" />
 
-  
-  💫 Hallo, ich bin Zoia – eine leidenschaftliche Entdeckerin des digitalen Universums!  
-  🌠 Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
+  ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
 
 ## My stack
