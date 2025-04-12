@@ -25,7 +25,8 @@
 - Email: [01102pzp@gmail.com](mailto:01102pzp@gmail.com)
 
 
- [![Zertifikat QA Engineer](https://img.icons8.com/ios/452/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
+ [Zertifikat für QA Engineer ansehen](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
+
 
 
 # 👩‍💻 Über mich
