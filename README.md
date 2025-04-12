@@ -66,5 +66,20 @@ Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt 
 ![ZoiaPZP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoiaPZP&layout=compact&theme=radical)
 
+## 📊 GitHub Statistiken
+
+![ZoiaPZP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&theme=radical)
+
+![Top Programmiersprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoiaPZP&layout=compact&theme=radical)
+
+![GitHub-Streak](https://streak-stats.demolab.com?user=ZoiaPZP&theme=radical&hide_border=true)
+
+![GitHub-Contributions](https://ghchart.rshah.org/ff4b4b/ZoiaPZP)
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ZoiaPZP?label=Followers&style=social" alt="GitHub Follower" />
+  <img src="https://img.shields.io/github/stars/ZoiaPZP?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/ZoiaPZP?label=Forks&style=social" alt="GitHub Forks" />
+</div>
 
 
