@@ -21,7 +21,7 @@
 
 📬 **Wie man mich erreicht:**
 
-[![GitHub](https://img.icons8.com/ios/60/6e6e6e/github.png)](https://github.com/ZoiaPZP)
+[![GitHub](https://img.icons8.com/ios/60/333333/github.png)](https://github.com/ZoiaPZP)
 [![LinkedIn](https://img.icons8.com/ios/60/0e76a8/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
 [![Email](https://img.icons8.com/ios/60/ff0000/email.png)](mailto:01102pzp@gmail.com)
 
