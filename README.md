@@ -20,6 +20,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
 
 📬 **Wie man mich erreicht:**
+
+[![GitHub](https://img.icons8.com/ios/452/github.png)](https://github.com/ZoiaPZP)
+
 - GitHub: [ZoiaPZP](https://github.com/ZoiaPZP)
 - LinkedIn: [Zoia Plus](https://www.linkedin.com/in/zoia-plus)
 - Email: [01102pzp@gmail.com](mailto:01102pzp@gmail.com)
