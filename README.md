@@ -19,6 +19,11 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
 
+📬 **Wie man mich erreicht:**
+- GitHub: [ZoiaPZP](https://github.com/ZoiaPZP)
+- LinkedIn: [Zoia Plus](https://www.linkedin.com/in/zoia-plus)
+- Email: [01102pzp@gmail.com](mailto:01102pzp@gmail.com)
+
 # 👩‍💻 Über mich
 Ich bin Zoya Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
 
