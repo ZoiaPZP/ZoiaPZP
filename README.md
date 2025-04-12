@@ -24,6 +24,9 @@
 - LinkedIn: [Zoia Plus](https://www.linkedin.com/in/zoia-plus)
 - Email: [01102pzp@gmail.com](mailto:01102pzp@gmail.com)
 
+  ![freeCodeCamp](https://img.shields.io/badge/certified-freeCodeCamp-blue)
+
+
 # 👩‍💻 Über mich
 Ich bin Zoya Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
 
