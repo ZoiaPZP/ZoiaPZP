@@ -20,19 +20,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
 
 📬 **Wie man mich erreicht:**
-
 [![GitHub](https://img.icons8.com/ios/60/6e6e6e/github.png)](https://github.com/ZoiaPZP)
 [![LinkedIn](https://img.icons8.com/ios/60/0e76a8/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
 [![Email](https://img.icons8.com/ios/60/ff0000/email.png)](mailto:01102pzp@gmail.com)
 
-
-
-
-
-- GitHub: [ZoiaPZP](https://github.com/ZoiaPZP)
-- LinkedIn: [Zoia Plus](https://www.linkedin.com/in/zoia-plus)
-- Email: [01102pzp@gmail.com](mailto:01102pzp@gmail.com)
-
+📜 **Meine Zertifikate:**
 [![Zertifikat QA Engineer](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
 
