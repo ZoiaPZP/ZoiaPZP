@@ -36,6 +36,8 @@
 [![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/10b981/book.png)](https://jaelouss.github.io/js-project/)
 [![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/f39c12/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
 💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
+[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/f39c12/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
+
 
 
 # 👩‍💻 Über mich
