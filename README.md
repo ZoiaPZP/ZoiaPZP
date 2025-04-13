@@ -29,10 +29,10 @@
 
 [![Zertifikat QA Engineer](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
-📂 **Pinned репозиторії:**
+📚 **Empfohlene Projekte**
 
-[![GoIT Markup HW-06](https://img.icons8.com/ios/60/000000/repository.png)](https://github.com/ZoiaPZP/goit-markup-hw-06)
-[![Project Chrono Creators](https://img.icons8.com/ios/60/000000/repository.png)](https://pusheaxvk.github.io/project-chrono-creators/)
+[![GoIT React HW-04](https://img.icons8.com/ios/60/ff6f61/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/)  
+🔗 [Live](https://goit-react-hw-04-six-tau-33.vercel.app/) | 💻 [Code](https://github.com/ZoiaPZP/goit-react-hw-04)
 
 # 👩‍💻 Über mich
 Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
