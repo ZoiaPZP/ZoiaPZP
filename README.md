@@ -34,6 +34,8 @@
 [![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/3b82f6/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
 [![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/10b981/book.png)](https://jaelouss.github.io/js-project/)
+[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/3498db/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
+💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
 
 
 # 👩‍💻 Über mich
