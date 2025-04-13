@@ -7,7 +7,7 @@
   ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
 
-## My stack
+## My stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-%234D8B31.svg?style=for-the-badge&logo=test-rail&logoColor=white)
@@ -29,7 +29,7 @@
 
 [![Zertifikat QA Engineer](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
-📚 **Empfohlene Projekte**
+📚 **Empfohlene Projekte:**
 
 [![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/3b82f6/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
@@ -42,6 +42,7 @@
 
 
 📄 **Mein Lebenslauf**  
+
 [![Lebenslauf](https://img.icons8.com/ios/60/ff6f61/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
 
 # 👩‍💻 Über mich
