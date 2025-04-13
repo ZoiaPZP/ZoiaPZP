@@ -43,6 +43,7 @@
 
 
 
+
 # 👩‍💻 Über mich
 Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
 
