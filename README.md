@@ -7,7 +7,7 @@
   ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
 
-🧰 **My stack:**
+## 🧰 My stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +46,7 @@
 [![Lebenslauf](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
 
 ## 👩‍💻 Über mich
-Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
+Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.🌍 Ich lebe in Deutschland.
 
 ## 🧩 Mein Hintergrund
 Mein beruflicher Hintergrund ist nicht ganz typisch: Ich habe als Krisenmanagerin in der Präsidialverwaltung gearbeitet, wo ich strategisches Denken, Stressbewältigung, Konfliktmanagement und Verantwortung für Ergebnisse gelernt habe. Das war eine solide Grundlage für meine Karriere in der IT.
