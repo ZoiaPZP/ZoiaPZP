@@ -41,10 +41,8 @@
 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
 
 
-
-
-
-
+📄 **Mein Lebenslauf**  
+[![Lebenslauf](https://img.icons8.com/ios/60/ff6f61/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
 
 # 👩‍💻 Über mich
 Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
