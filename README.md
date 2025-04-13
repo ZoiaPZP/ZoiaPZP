@@ -37,8 +37,9 @@
 [![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/f39c12/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
 💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
 [![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/9b59b6/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
-[![GoIT Markup HW-06](https://img.icons8.com/ios/60/ff0000/book-filled.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
+[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/ff0000/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
+
 
 
 
