@@ -46,7 +46,7 @@
 
 [![Lebenslauf](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
 
-# 👩‍💻 Über mich
+👩‍💻 **Über mich**
 Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
 
 ## 🧩 Mein Hintergrund
