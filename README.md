@@ -31,19 +31,19 @@
 
 📚 **Empfohlene Projekte:**
 
-[![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/3b82f6/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
+[![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/E52020/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
-[![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/10b981/book.png)](https://jaelouss.github.io/js-project/)
-[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/f39c12/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
+[![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/FBA518/book.png)](https://jaelouss.github.io/js-project/)
+[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/F9CB43/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
 💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
-[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/9b59b6/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
-[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/ff0000/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
+[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/A89C29/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
+[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/C14600/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
 
 
 📄 **Mein Lebenslauf**  
 
-[![Lebenslauf](https://img.icons8.com/ios/60/ff6f61/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
+[![Lebenslauf](https://img.icons8.com/ios/60/F637EC/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing)
 
 # 👩‍💻 Über mich
 Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.
