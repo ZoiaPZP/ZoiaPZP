@@ -33,8 +33,6 @@
 📚 **Empfohlene Projekte:**
 
 
-[![GoIT React HW-05 – Live-Version](https://img.icons8.com/ios-filled/60/A888B5/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/)  
-[💻 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
 
 [![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/E52020/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
@@ -44,6 +42,8 @@
 [![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/A89C29/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
 [![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/C14600/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
+[![GoIT React HW-05 – Live-Version](https://img.icons8.com/ios-filled/60/A888B5/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/)  
+[💻 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
 
 📄 **Mein Lebenslauf:**  
 
