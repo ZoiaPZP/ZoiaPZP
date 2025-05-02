@@ -34,6 +34,9 @@
 
 
 
+
+[![GoIT React HW-08 – Live-Version](https://img.icons8.com/ios-filled/60/FFB4A2/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) 
+[💻 Code](https://github.com/ZoiaPZP/goit-react-hw-08)
 [![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/E52020/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
 [![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/FBA518/book.png)](https://jaelouss.github.io/js-project/)
