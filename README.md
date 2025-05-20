@@ -50,7 +50,7 @@
 📄 **Mein Lebenslauf:**  
 
 [![Resume](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing) **English**
-[![Lebenslauf](https://img.icons8.com/ios/60/52020/resume.png)](https://drive.google.com/file/d/1wM4qbsXdIQOApApxbtY5r3tdBUAsReYc/view?usp=sharing) **Deutsch**
+[![Resume](https://img.icons8.com/ios/60/E52020/resume.png)](https://drive.google.com/file/d/1wM4qbsXdIQOApApxbtY5r3tdBUAsReYc/view?usp=sharing) **Deutsch** 
 
 
 
