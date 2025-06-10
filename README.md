@@ -19,6 +19,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23002630.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 📬 **Wie man mich erreicht:**
 
