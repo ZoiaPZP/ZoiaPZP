@@ -4,7 +4,7 @@
  <img 
   src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-crop2.gif" 
   alt="Sci-fi Space" 
-  style="width: 100%; height: auto; max-height: 350px; object-fit: cover; display: block;" />
+  style="width: 100%; height: auto; max-height: 550px; object-fit: cover; display: block;" />
 
 
 
