@@ -4,7 +4,7 @@
  <img 
   src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/science%20fiction%20space%20GIF%20by%20xponentialdesign.gif" 
   alt="Sci-fi Space" 
-  style="width: 50%; max-height: 900px;" />
+  style="width: 100%; height: 300px; object-fit: cover; display: block;" />
  
   
   ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
