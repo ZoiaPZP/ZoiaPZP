@@ -2,10 +2,12 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=435&lines=Willkommen+auf+meinem+Profil!;Ich+bin+eine+Front-End-Entwicklerin!)
  <img 
-  src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/science%20fiction%20space%20GIF%20by%20xponentialdesign.gif" 
-  alt="Sci-fi Space" 
-  style="width: 100%; height: 300px; object-fit: cover; display: block;" />
- 
+  <div style="width: 100%; aspect-ratio: 21 / 9; overflow: hidden;">
+  <img 
+    src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/science%20fiction%20space%20GIF%20by%20xponentialdesign.gif" 
+    alt="Sci-fi Space" 
+    style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
   
   ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
