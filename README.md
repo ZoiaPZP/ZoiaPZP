@@ -5,7 +5,6 @@
 
 
  
- 
  <img 
   src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-crop2.gif" 
   alt="Sci-fi Space" 
@@ -16,8 +15,6 @@
 
 
 
-
-  
   ✨ 💫  Hier ist ein bisschen kosmische Inspiration, während Sie meine Repositories durchstöbern...
 </p>
 
