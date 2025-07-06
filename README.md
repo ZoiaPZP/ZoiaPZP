@@ -4,7 +4,7 @@
 
  
  
- <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-optimize1.gif" alt="Sci-fi Space" width="100%" height="auto"/>
+ <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-optimize1.gif" alt="Sci-fi Space" style="width:100%; height:auto;" />
 
 
 
