@@ -1,8 +1,6 @@
 # **Hallo, ich bin Zoia** 🤝
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=435&lines=Willkommen+auf+meinem+Profil!;Ich+bin+eine+Front-End-Entwicklerin!)
-
-
  <img 
   src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-crop2.gif" 
   alt="Sci-fi Space" 
