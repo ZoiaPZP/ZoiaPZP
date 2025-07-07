@@ -62,7 +62,7 @@
 
 
 ## 👩‍💻 Über mich
-Ich bin Zoia Plus, eine Junior Front-End Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.🌍 Ich lebe in Deutschland.
+Ich bin Zoia Plus, eine Junior Fullstack Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.🌍 Ich lebe in Deutschland.
 
 ## 🧩 Mein Hintergrund
 Mein beruflicher Hintergrund ist nicht ganz typisch: Ich habe als Krisenmanagerin in der Präsidialverwaltung gearbeitet, wo ich strategisches Denken, Stressbewältigung, Konfliktmanagement und Verantwortung für Ergebnisse gelernt habe. Das war eine solide Grundlage für meine Karriere in der IT.
