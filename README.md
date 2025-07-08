@@ -41,7 +41,8 @@
 
 
 
-
+[![Swagger API Docs – Live-Version](https://img.icons8.com/ios-filled/60/876445/api.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/)  
+[💻 Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
 [![GoIT React HW-08 – Live-Version](https://img.icons8.com/ios-filled/60/FFB4A2/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) 
 [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-08)
 [![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/E52020/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
