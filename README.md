@@ -42,7 +42,7 @@
 
 
 [![Mindflow – Live-Version](https://img.icons8.com/ios-filled/60/FF5580/book.png)](https://mindflow-frontend.vercel.app/)  
-[💻 Frontend Code](https://github.com/PushEaxVK/mindflow-frontend)  [💻 Backend Code](https://github.com/PushEaxVK/mindflow-backend)
+[💻 Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) 
 [![Swagger API Docs – Live-Version](https://img.icons8.com/ios-filled/60/876445/book.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/)  
 [💻 Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
 
