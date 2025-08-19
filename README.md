@@ -35,9 +35,10 @@
 
 📜 **Meine Zertifikate:**
 
-[![Zertifikat QA Engineer](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
-[![Zertifikat](https://img.icons8.com/ios/60/00bfff/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
+[![Zertifikat](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
+[![Zertifikat QA Engineer](https://img.icons8.com/ios/60/00bfff/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
+ff0000
 
 📚 **Empfohlene Projekte:**
 
