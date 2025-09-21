@@ -61,7 +61,7 @@
 
 📄 **Mein Lebenslauf:**  
 
-[![Resume](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1D_TD0T6HHa0lExoeb0qeTjCV8ZOvB7rB/view?usp=sharing) **English**
+[![Resume](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
 [![Resume](https://img.icons8.com/ios/60/E52020/resume.png)](https://drive.google.com/file/d/1WZ-oidI5v80cdfe58oFRjV1YSae37PGH/view?usp=sharing) **Deutsch** 
 
 
