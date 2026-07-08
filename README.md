@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vCenter=true&width=700&height=60&lines=Willkommen+auf+meinem+Profil+%F0%9F%A4%9D)
-<img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/network-banner-v6.svg" width="100%"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&height=40&lines=Jeder+Punkt+eine+Idee%2C+jede+Linie+eine+Verbindung)
+<img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/network-banner-final.svg" width="100%"/>
 
 ## 🧰 My stack:
 
