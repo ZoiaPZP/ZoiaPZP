@@ -26,9 +26,15 @@
 
 ### Empfohlene Projekte
 
-[![Mindflow](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://mindflow-frontend.vercel.app/) [![Swagger API Docs](https://img.icons8.com/ios-filled/60/D85A30/book.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/) [![GoIT React HW-08](https://img.icons8.com/ios-filled/60/D4537E/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) [![GoIT React HW-04](https://img.icons8.com/ios-filled/60/BA7517/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) [![Team-Projekt JS](https://img.icons8.com/ios-filled/60/639922/book.png)](https://jaelouss.github.io/js-project/) [![GoIT JS HW-12](https://img.icons8.com/ios-filled/60/378ADD/book.png)](https://zoiapzp.github.io/goit-js-hw-12/) [![Project Chrono Creators](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://pusheaxvk.github.io/project-chrono-creators/) [![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/D85A30/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/) [![GoIT React HW-05](https://img.icons8.com/ios-filled/60/D4537E/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/)
-
-💻 [Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) · [Backend Code](https://github.com/PushEaxVK/mindflow-backend) · [Swagger Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger) · [HW-08 Code](https://github.com/ZoiaPZP/goit-react-hw-08) · [HW-04 Code](https://github.com/ZoiaPZP/goit-react-hw-04) · [HW-12 Code](https://github.com/ZoiaPZP/goit-js-hw-12) · [Markup Code](https://github.com/ZoiaPZP/goit-markup-hw-06) · [HW-05 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
+[![Mindflow](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-1.svg)](https://mindflow-frontend.vercel.app/) [Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) · [Backend Code](https://github.com/PushEaxVK/mindflow-backend)
+[![Swagger API Docs](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-2.svg)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/) [Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
+[![GoIT React HW-08](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-3.svg)](https://goit-react-hw-08-inky-eight-13.vercel.app/) [Code](https://github.com/ZoiaPZP/goit-react-hw-08)
+[![GoIT React HW-04](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-4.svg)](https://goit-react-hw-04-six-tau-33.vercel.app/) [Code](https://github.com/ZoiaPZP/goit-react-hw-04)
+[![Team-Projekt JS](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-5.svg)](https://jaelouss.github.io/js-project/)
+[![GoIT JS HW-12](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-6.svg)](https://zoiapzp.github.io/goit-js-hw-12/) [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
+[![Project Chrono Creators](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-7.svg)](https://pusheaxvk.github.io/project-chrono-creators/)
+[![GoIT Markup HW-06](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-8.svg)](https://zoiapzp.github.io/goit-markup-hw-06/) [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
+[![GoIT React HW-05](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/books/book-9.svg)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [Code](https://github.com/ZoiaPZP/goit-react-hw-05)
 
 ### Mein Lebenslauf
 
