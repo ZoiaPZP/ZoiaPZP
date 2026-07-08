@@ -15,14 +15,14 @@
 
 ### Wie man mich erreicht
 
-[![GitHub](https://img.icons8.com/ios/50/333333/github.png)](https://github.com/ZoiaPZP)
-[![LinkedIn](https://img.icons8.com/ios/50/0e76a8/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
-[![Email](https://img.icons8.com/ios/50/EA4335/email.png)](mailto:zoia.pluss@gmail.com)
+[![GitHub](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-github.svg)](https://github.com/ZoiaPZP)
+[![LinkedIn](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-linkedin.svg)](https://www.linkedin.com/in/zoia-plus)
+[![Email](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-email.svg)](mailto:zoia.pluss@gmail.com)
 
 ### Meine Zertifikate
 
-[![QA Manual](https://img.icons8.com/ios/60/D85A30/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
-[![Fullstack Developer](https://img.icons8.com/ios/60/1D9E75/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
+[![QA Manual](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-1.svg)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
+[![Fullstack Developer](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-2.svg)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
 ### Empfohlene Projekte
 
@@ -38,9 +38,8 @@
 
 ### Mein Lebenslauf
 
-[![English](https://img.icons8.com/ios/60/1D9E75/resume.png)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
-[![Deutsch](https://img.icons8.com/ios/60/D85A30/resume.png)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch**
-
+[![English](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-en.svg)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
+[![Deutsch](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-de.svg)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch**
 
 
 
