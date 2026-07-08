@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&height=40&lines=Jeder+Punkt+eine+Idee%2C+jede+Linie+eine+Verbindung)
 
 
-
 ## 🧰 My stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
