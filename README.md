@@ -45,28 +45,36 @@
 
 
 
-## 👩‍💻 Über mich
-Ich bin Zoia Plus, eine Junior Fullstack Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben.🌍 Ich lebe in Deutschland.
+### Über mich
 
-## 🧩 Mein Hintergrund
+Ich bin Zoia Plus, eine Junior Fullstack Entwicklerin, die in der IT wachsen und digitale Produkte schaffen möchte, die Bedeutung haben. Ich lebe in Deutschland.
+
+### Mein Hintergrund
+
 Mein beruflicher Hintergrund ist nicht ganz typisch: Ich habe als Krisenmanagerin in der Präsidialverwaltung gearbeitet, wo ich strategisches Denken, Stressbewältigung, Konfliktmanagement und Verantwortung für Ergebnisse gelernt habe. Das war eine solide Grundlage für meine Karriere in der IT.
 
-## 🔧 Meine technischen Fähigkeiten
-Ich beherrsche HTML, CSS, JavaScript und moderne Bibliotheken wie React. Durch meine QA-Kurse habe ich einen Überblick über den gesamten Produktlebenszyklus — von der Idee bis zum Testing. Derzeit studiere ich Full-Stack, um die Architektur von Produkten besser zu verstehen. Außerdem habe ich Erfahrung im Arbeiten mit Git für die Versionskontrolle und benutze VS Code als Hauptwerkzeug für die Entwicklung.
+### Meine technischen Fähigkeiten
 
-## 🎨 Was mich inspiriert
+Ich beherrsche HTML, CSS, JavaScript und moderne Bibliotheken wie React. Durch meine QA-Kurse habe ich einen Überblick über den gesamten Produktlebenszyklus — von der Idee bis zum Testing. Meine Fullstack-Weiterbildung habe ich erfolgreich abgeschlossen und dabei die Architektur moderner Webanwendungen von Grund auf verstanden. Außerdem habe ich Erfahrung im Arbeiten mit Git für die Versionskontrolle und benutze VS Code als Hauptwerkzeug für die Entwicklung.
+
+### Was mich inspiriert
+
 Ich schätze Ästhetik und sauberen Code. Es inspiriert mich, Schnittstellen zu erstellen, die nicht nur funktionieren, sondern auch Emotionen hervorrufen: Ruhe, Komfort, Inspiration. Ich liebe Mikrointeraktionen und Animationen, weil ich glaube, dass die kleinen Details die Magie ausmachen.
 
-## 🎯 Mein Ziel
-Mein Ziel ist es, eine starke Front-End Entwicklerin zu werden, die nicht nur funktionale, sondern lebendige Schnittstellen schafft, die mit den Menschen in Resonanz treten. Ich möchte in einem Team arbeiten, das Kreativität, Unterstützung und Entwicklung schätzt. Dafür lerne ich aktiv, suche nach Praktikumsmöglichkeiten und strebe an, kommerzielle Erfahrungen in einem echten Team zu sammeln.
+### Mein Ziel
 
-## 🌟 Was mich antreibt
+Mein Ziel ist es, eine starke Fullstack-Entwicklerin zu werden, die nicht nur funktionale, sondern lebendige Anwendungen schafft, die mit den Menschen in Resonanz treten. Ich möchte in einem Team arbeiten, das Kreativität, Unterstützung und Entwicklung schätzt. Dafür lerne ich aktiv, suche nach Praktikums- und Ausbildungsmöglichkeiten und strebe an, kommerzielle Erfahrungen in einem echten Team zu sammeln.
+
+### Was mich antreibt
+
 Es motiviert mich, das reale Ergebnis meiner Arbeit zu sehen — das gibt mir Sinn und Energie. Ich liebe es, zu programmieren, zu lernen und das Gefühl zu haben, jeden Tag zu wachsen.
 
-## 🏞️ Abseits der Arbeit
+### Abseits der Arbeit
+
 Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt mich mit Energie auf. Schwimmen hilft mir, Spannungen abzubauen und mich neu zu laden, und Golf schätze ich für Konzentration und den inneren Frieden, den es mir gibt.
 
-## 🧠 SOFT SKILLS
+### Soft Skills
+
 - Aufmerksamkeit für Details
 - Schnelles Lernen
 - Teamarbeit
@@ -76,7 +84,7 @@ Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt 
 - Kommunikationsfähigkeit
 - Technisches Denken
 
-### 📊 GitHub Statistiken
+### GitHub Statistiken
 
 ![ZoiaPZP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoiaPZP&layout=compact&theme=radical)
