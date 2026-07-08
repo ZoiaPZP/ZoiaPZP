@@ -2,17 +2,16 @@
 
 ## 🧰 My stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-%234D8B31.svg?style=for-the-badge&logo=test-rail&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23F7A600.svg?style=for-the-badge&logo=xml&logoColor=white)  <!-- Яскраво жовтий для XML -->
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Trello](https://img.shields.io/badge/Trello-%23002630.svg?style=for-the-badge&logo=trello&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%236C6C6C.svg?style=for-the-badge&logo=github&logoColor=white) <!-- Світло-сірий для GitHub -->
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/git-1a1a1a.svg?style=flat-square&logo=git&logoColor=F05033)
+![TestRail](https://img.shields.io/badge/TestRail-1a1a1a.svg?style=flat-square&logo=testrail&logoColor=4D8B31)
+![Postman](https://img.shields.io/badge/Postman-1a1a1a.svg?style=flat-square&logo=postman&logoColor=FF6C37)
+![HTML](https://img.shields.io/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-1a1a1a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Trello](https://img.shields.io/badge/Trello-1a1a1a.svg?style=flat-square&logo=trello&logoColor=0079BF)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a.svg?style=flat-square&logo=css3&logoColor=1572B6)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a.svg?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a.svg?style=flat-square&logo=node.js&logoColor=339933)
 
 📬 **Wie man mich erreicht:**
 
