@@ -15,7 +15,7 @@
 
 ### Wie man mich erreicht
 
-[![GitHub](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-github.svg)](https://github.com/ZoiaPZP)
+[![GitHub](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-github.svg?v=2)](https://github.com/ZoiaPZP)
 [![LinkedIn](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-linkedin.svg)](https://www.linkedin.com/in/zoia-plus)
 [![Email](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/contact-email.svg)](mailto:zoia.pluss@gmail.com)
 
