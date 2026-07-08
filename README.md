@@ -1,38 +1,53 @@
+<img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/network-banner-final.svg" width="100%"/>
+
+### My stack
+
+![JavaScript](https://img.shields.io/badge/javascript-2b2b2b.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/git-2b2b2b.svg?style=flat-square&logo=git&logoColor=F05033)
+![TestRail](https://img.shields.io/badge/TestRail-2b2b2b.svg?style=flat-square&logo=testrail&logoColor=4D8B31)
+![Postman](https://img.shields.io/badge/Postman-2b2b2b.svg?style=flat-square&logo=postman&logoColor=FF6C37)
+![HTML](https://img.shields.io/badge/HTML-2b2b2b.svg?style=flat-square&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-2b2b2b.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Trello](https://img.shields.io/badge/Trello-2b2b2b.svg?style=flat-square&logo=trello&logoColor=0079BF)
+![CSS](https://img.shields.io/badge/CSS-2b2b2b.svg?style=flat-square&logo=css3&logoColor=1572B6)
+![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2b2b2b.svg?style=flat-square&logo=node.js&logoColor=339933)
+
 ### Wie man mich erreicht
 
-![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=0A66C2)
-![Email](https://img.shields.io/badge/Email-2b2b2b?style=flat-square&logo=gmail&logoColor=EA4335)
+[![GitHub](https://img.icons8.com/ios/50/8a6fc9/github.png)](https://github.com/ZoiaPZP)
+[![LinkedIn](https://img.icons8.com/ios/50/8a6fc9/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
+[![Email](https://img.icons8.com/ios/50/8a6fc9/email.png)](mailto:zoia.pluss@gmail.com)
 
 ### Meine Zertifikate
 
-[![QA Manual](https://img.shields.io/badge/QA_Manual-2b2b2b?style=flat-square&logoColor=E52020)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
-[![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-2b2b2b?style=flat-square&logoColor=00BFFF)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
+[![Zertifikat](https://img.icons8.com/ios/60/8a6fc9/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
+[![Zertifikat QA Engineer](https://img.icons8.com/ios/60/8a6fc9/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
 ### Empfohlene Projekte
 
-[![Mindflow](https://img.shields.io/badge/Mindflow-2b2b2b?style=flat-square&color=2b2b2b&labelColor=2b2b2b)](https://mindflow-frontend.vercel.app/) [![Frontend](https://img.shields.io/badge/Frontend-8a6fc9?style=flat-square)](https://github.com/PushEaxVK/mindflow-frontend) [![Backend](https://img.shields.io/badge/Backend-1D9E75?style=flat-square)](https://github.com/PushEaxVK/mindflow-backend)
+[![Mindflow – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://mindflow-frontend.vercel.app/) [💻 Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) [💻 Backend Code](https://github.com/PushEaxVK/mindflow-backend)
 
-[![Swagger API Docs](https://img.shields.io/badge/Swagger_API_Docs-2b2b2b?style=flat-square)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/) [![Code](https://img.shields.io/badge/Code-D85A30?style=flat-square)](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
+[![Swagger API Docs – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/) [💻 Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
 
-[![GoIT React HW-08](https://img.shields.io/badge/GoIT_React_HW--08-2b2b2b?style=flat-square)](https://goit-react-hw-08-inky-eight-13.vercel.app/) [![Code](https://img.shields.io/badge/Code-D4537E?style=flat-square)](https://github.com/ZoiaPZP/goit-react-hw-08)
+[![GoIT React HW-08 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-08)
 
-[![GoIT React HW-04](https://img.shields.io/badge/GoIT_React_HW--04-2b2b2b?style=flat-square)](https://goit-react-hw-04-six-tau-33.vercel.app/) [![Code](https://img.shields.io/badge/Code-BA7517?style=flat-square)](https://github.com/ZoiaPZP/goit-react-hw-04)
+[![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
 
-[![Team-Projekt JS](https://img.shields.io/badge/Team--Projekt_JS-2b2b2b?style=flat-square)](https://jaelouss.github.io/js-project/)
+[![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://jaelouss.github.io/js-project/)
 
-[![GoIT JS HW-12](https://img.shields.io/badge/GoIT_JS_HW--12-2b2b2b?style=flat-square)](https://zoiapzp.github.io/goit-js-hw-12/) [![Code](https://img.shields.io/badge/Code-378ADD?style=flat-square)](https://github.com/ZoiaPZP/goit-js-hw-12)
+[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://zoiapzp.github.io/goit-js-hw-12/) 💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
 
-[![Project Chrono Creators](https://img.shields.io/badge/Chrono_Creators-2b2b2b?style=flat-square)](https://pusheaxvk.github.io/project-chrono-creators/)
+[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
 
-[![GoIT Markup HW-06](https://img.shields.io/badge/GoIT_Markup_HW--06-2b2b2b?style=flat-square)](https://zoiapzp.github.io/goit-markup-hw-06/) [![Code](https://img.shields.io/badge/Code-639922?style=flat-square)](https://github.com/ZoiaPZP/goit-markup-hw-06)
+[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/) 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
 
-[![GoIT React HW-05](https://img.shields.io/badge/GoIT_React_HW--05-2b2b2b?style=flat-square)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [![Code](https://img.shields.io/badge/Code-8a6fc9?style=flat-square)](https://github.com/ZoiaPZP/goit-react-hw-05)
+[![GoIT React HW-05 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
 
 ### Mein Lebenslauf
 
-[![English](https://img.shields.io/badge/English-1D9E75?style=flat-square)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing)
-[![Deutsch](https://img.shields.io/badge/Deutsch-D85A30?style=flat-square)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing)
+[![Resume](https://img.icons8.com/ios/60/8a6fc9/resume.png)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
+[![Resume](https://img.icons8.com/ios/60/8a6fc9/resume.png)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch**
 
 
 
