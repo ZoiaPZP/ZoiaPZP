@@ -1,10 +1,6 @@
 # **Hallo, ich bin Zoia** 🤝
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&width=435&lines=Willkommen+auf+meinem+Profil!;Ich+bin+eine+Fullstack-Entwicklerin!)
- <img 
-  src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/ezgif.com-crop2.gif" 
-  alt="Sci-fi Space" 
-  style="width: 100%; height: auto; max-height: 550px; object-fit: cover; display: block;" />
+<img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/network-banner-v6.svg" width="100%"/>
 
 
 
