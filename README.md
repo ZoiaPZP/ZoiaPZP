@@ -2,16 +2,16 @@
 
 ## 🧰 My stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-1a1a1a.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/git-1a1a1a.svg?style=flat-square&logo=git&logoColor=F05033)
-![TestRail](https://img.shields.io/badge/TestRail-1a1a1a.svg?style=flat-square&logo=testrail&logoColor=4D8B31)
-![Postman](https://img.shields.io/badge/Postman-1a1a1a.svg?style=flat-square&logo=postman&logoColor=FF6C37)
-![HTML](https://img.shields.io/badge/HTML-1a1a1a.svg?style=flat-square&logo=html5&logoColor=E34F26)
-![React](https://img.shields.io/badge/React-1a1a1a.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![Trello](https://img.shields.io/badge/Trello-1a1a1a.svg?style=flat-square&logo=trello&logoColor=0079BF)
-![CSS](https://img.shields.io/badge/CSS-1a1a1a.svg?style=flat-square&logo=css3&logoColor=1572B6)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a.svg?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a.svg?style=flat-square&logo=node.js&logoColor=339933)
+![JavaScript](https://img.shields.io/badge/javascript-2b2b2b.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/git-2b2b2b.svg?style=flat-square&logo=git&logoColor=F05033)
+![TestRail](https://img.shields.io/badge/TestRail-2b2b2b.svg?style=flat-square&logo=testrail&logoColor=4D8B31)
+![Postman](https://img.shields.io/badge/Postman-2b2b2b.svg?style=flat-square&logo=postman&logoColor=FF6C37)
+![HTML](https://img.shields.io/badge/HTML-2b2b2b.svg?style=flat-square&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-2b2b2b.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Trello](https://img.shields.io/badge/Trello-2b2b2b.svg?style=flat-square&logo=trello&logoColor=0079BF)
+![CSS](https://img.shields.io/badge/CSS-2b2b2b.svg?style=flat-square&logo=css3&logoColor=1572B6)
+![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2b2b2b.svg?style=flat-square&logo=node.js&logoColor=339933)
 
 📬 **Wie man mich erreicht:**
 
