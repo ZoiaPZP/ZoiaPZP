@@ -86,8 +86,8 @@ Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt 
 
 ### GitHub Statistiken
 
-![ZoiaPZP's GitHub Stats](https://github-readme-stats-sigma-nine.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&theme=tokyonight)
-![Languages](https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=ZoiaPZP&layout=compact&theme=tokyonight)
+![ZoiaPZP's GitHub Stats](https://github-readme-stats-sigma-nine.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&hide_border=true&bg_color=161022&title_color=8a6fc9&icon_color=8a6fc9&text_color=c9c9c9)
+![Languages](https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=ZoiaPZP&layout=compact&hide_border=true&bg_color=161022&title_color=8a6fc9&text_color=c9c9c9)
 
 
 
