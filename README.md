@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/network-banner-final.svg" width="100%"/>
 
-## 🧰 My stack:
+### My stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-2b2b2b.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/git-2b2b2b.svg?style=flat-square&logo=git&logoColor=F05033)
@@ -13,42 +13,41 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=flat-square&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-2b2b2b.svg?style=flat-square&logo=node.js&logoColor=339933)
 
-📬 **Wie man mich erreicht:**
+### Wie man mich erreicht
 
-[![GitHub](https://img.icons8.com/ios/50/333333/github.png)](https://github.com/ZoiaPZP)
-[![LinkedIn](https://img.icons8.com/ios/50/0e76a8/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
-[![Email](https://img.icons8.com/ios/50/ff0000/email.png)](mailto:zoia.pluss@gmail.com)
+[![GitHub](https://img.icons8.com/ios/50/8a6fc9/github.png)](https://github.com/ZoiaPZP)
+[![LinkedIn](https://img.icons8.com/ios/50/8a6fc9/linkedin.png)](https://www.linkedin.com/in/zoia-plus)
+[![Email](https://img.icons8.com/ios/50/8a6fc9/email.png)](mailto:zoia.pluss@gmail.com)
 
-📜 **Meine Zertifikate:**
+### Meine Zertifikate
 
-[![Zertifikat](https://img.icons8.com/ios/60/ff0000/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
-[![Zertifikat QA Engineer](https://img.icons8.com/ios/60/00bfff/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
+[![Zertifikat](https://img.icons8.com/ios/60/8a6fc9/certificate.png)](https://drive.google.com/file/d/1qQV1DFOKQqD0TyStC5C9WtYVogDvdtvE/view?usp=sharing)
+[![Zertifikat QA Engineer](https://img.icons8.com/ios/60/8a6fc9/certificate.png)](https://drive.google.com/file/d/1I3Duv0DvN3kUy43yo5l5qRq4k1ohjC87/view?usp=sharing)
 
+### Empfohlene Projekte
 
-📚 **Empfohlene Projekte:**
+[![Mindflow – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://mindflow-frontend.vercel.app/) [💻 Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) [💻 Backend Code](https://github.com/PushEaxVK/mindflow-backend)
 
+[![Swagger API Docs – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/) [💻 Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
 
+[![GoIT React HW-08 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-08)
 
+[![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
 
-[![Mindflow – Live-Version](https://img.icons8.com/ios-filled/60/FF5580/book.png)](https://mindflow-frontend.vercel.app/)[💻 Frontend Code](https://github.com/PushEaxVK/mindflow-frontend) [💻 Backend Code](https://github.com/PushEaxVK/mindflow-backend)
-[![Swagger API Docs – Live-Version](https://img.icons8.com/ios-filled/60/876445/book.png)](https://nodejs-hw-mongodb-8-rqln.onrender.com/api-docs/)[💻 Code](https://github.com/ZoiaPZP/nodejs-hw-mongodb/tree/hw7-swagger)
+[![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://jaelouss.github.io/js-project/)
 
-[![GoIT React HW-08 – Live-Version](https://img.icons8.com/ios-filled/60/FFB4A2/book.png)](https://goit-react-hw-08-inky-eight-13.vercel.app/) 
-[💻 Code](https://github.com/ZoiaPZP/goit-react-hw-08)
-[![GoIT React HW-04 – Live-Version](https://img.icons8.com/ios-filled/60/E52020/book.png)](https://goit-react-hw-04-six-tau-33.vercel.app/) 
-[💻 Code](https://github.com/ZoiaPZP/goit-react-hw-04)
-[![Team-Projekt JS – Live-Version](https://img.icons8.com/ios-filled/60/FBA518/book.png)](https://jaelouss.github.io/js-project/)
-[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/F9CB43/book.png)](https://zoiapzp.github.io/goit-js-hw-12/)
-💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
-[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/A89C29/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
-[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/C14600/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/)
-💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
-[![GoIT React HW-05 – Live-Version](https://img.icons8.com/ios-filled/60/A888B5/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
+[![GoIT JS HW-12 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://zoiapzp.github.io/goit-js-hw-12/) 💻 [Code](https://github.com/ZoiaPZP/goit-js-hw-12)
 
-📄 **Mein Lebenslauf:**  
+[![Project Chrono Creators – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://pusheaxvk.github.io/project-chrono-creators/)
 
-[![Resume](https://img.icons8.com/ios/60/007F73/resume.png)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
-[![Resume](https://img.icons8.com/ios/60/E52020/resume.png)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch** 
+[![GoIT Markup HW-06](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://zoiapzp.github.io/goit-markup-hw-06/) 💻 [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
+
+[![GoIT React HW-05 – Live-Version](https://img.icons8.com/ios-filled/60/8a6fc9/book.png)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [💻 Code](https://github.com/ZoiaPZP/goit-react-hw-05)
+
+### Mein Lebenslauf
+
+[![Resume](https://img.icons8.com/ios/60/8a6fc9/resume.png)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
+[![Resume](https://img.icons8.com/ios/60/8a6fc9/resume.png)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch**
 
 
 
