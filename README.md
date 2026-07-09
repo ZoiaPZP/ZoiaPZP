@@ -38,8 +38,8 @@
 
 ### Mein Lebenslauf
 
-[![Deutsch](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-de.svg)](https://drive.google.com/file/d/1ItHWa5BZYF0SV4RdtX69rnoSn04iznyU/view?usp=sharing) **Deutsch**
-[![English](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-en.svg)](https://drive.google.com/file/d/1swp3ksO6kSLHmM9j1G5wLtJmn4Im1Vyg/view?usp=sharing) **English**
+[![Deutsch](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-de.svg)](https://drive.google.com/file/d/158VmIyf729JtP_xHW8L821i-taZOT3h6/view?usp=sharing) **Deutsch**
+[![English](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-en.svg)](https://drive.google.com/file/d/1JuLOXsOPvHbph3wKLmRoc8a2_u8FWJd9/view?usp=sharing) **English**
 
 
 
