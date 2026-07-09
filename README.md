@@ -82,7 +82,9 @@ Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt 
 - Kommunikationsfähigkeit
 - Technisches Denken
 
+### GitHub Statistiken
 
+![ZoiaPZP's GitHub Stats](https://github-readme-stats-sigma-nine.vercel.app/api?username=ZoiaPZP&show_icons=true&count_private=true&hide_border=true&bg_color=161022&title_color=8a6fc9&icon_color=8a6fc9&text_color=c9c9c9)
 
 
 
