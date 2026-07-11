@@ -82,7 +82,6 @@ Ich liebe es, Fahrrad zu fahren, es gibt mir ein Gefühl der Freiheit und lädt 
 - Kommunikationsfähigkeit
 - Technisches Denken
 
-### GitHub Statistiken
 
 ### GitHub Statistiken
 
