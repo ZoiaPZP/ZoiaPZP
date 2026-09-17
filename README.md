@@ -35,6 +35,7 @@
 [![Project Chrono Creators](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/book-7.svg)](https://pusheaxvk.github.io/project-chrono-creators/)
 [![GoIT Markup HW-06](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/book-8.svg)](https://zoiapzp.github.io/goit-markup-hw-06/) [Code](https://github.com/ZoiaPZP/goit-markup-hw-06)
 [![GoIT React HW-05](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/book-9.svg)](https://goit-react-hw-05-o2qmu27qk-zoias-projects-a69c267d.vercel.app/) [Code](https://github.com/ZoiaPZP/goit-react-hw-05)
+[![Space Calc](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/book-10.svg)](https://space-calc-amber.vercel.app/)
 
 ### Mein Lebenslauf
 
