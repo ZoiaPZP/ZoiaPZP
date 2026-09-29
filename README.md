@@ -39,8 +39,8 @@
 
 ### Mein Lebenslauf
 
-[![Deutsch](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-de.svg)](https://github.com/ZoiaPZP/ZoiaPZP/blob/main/assets/CV_DE.pdf) **Deutsch**
-[![English](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-en.svg)](https://github.com/ZoiaPZP/ZoiaPZP/blob/main/assets/CV_EN.pdf) **English**
+[![Deutsch](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-de.svg)](https://portfolio-zoia-plus.vercel.app/docs/lebenslauf-zoia-plus.pdf) **Deutsch**
+[![English](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/resume-en.svg)](https://portfolio-zoia-plus.vercel.app/docs/cv-zoia-plus-en.pdf) **English**
 
 
 
