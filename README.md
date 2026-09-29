@@ -21,8 +21,8 @@
 
 ### Meine Zertifikate
 
-[![QA Manual](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-1.svg)](https://portfolio-zoia-plus.vercel.app/docs/certificates-zoia-plus.pdf#page=4)
-[![Fullstack Developer](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-2.svg)](https://portfolio-zoia-plus.vercel.app/docs/certificates-zoia-plus.pdf#page=1)
+[![Fullstack Developer](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-1.svg)](https://portfolio-zoia-plus.vercel.app/docs/certificate-fullstack.pdf)
+[![QA Manual](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/cert-2.svg)](https://portfolio-zoia-plus.vercel.app/docs/certificate-qa.pdf)
 
 ### Empfohlene Projekte
 
