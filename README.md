@@ -2,7 +2,7 @@
 
 ### 🌐 Mein Portfolio
 
-[![Portfolio ansehen](https://img.shields.io/badge/Portfolio_ansehen-portfolio--zoia--plus.vercel.app-8f7bff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-zoia-plus.vercel.app/)
+[![Portfolio ansehen](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/portfolio-button.svg)](https://portfolio-zoia-plus.vercel.app/)
 
 ### My stack
 
