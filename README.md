@@ -6,16 +6,16 @@
 
 ### My stack
 
-![JavaScript](https://img.shields.io/badge/javascript-2b2b2b.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/git-2b2b2b.svg?style=flat-square&logo=git&logoColor=F05033)
-![TestRail](https://img.shields.io/badge/TestRail-2b2b2b.svg?style=flat-square&logo=testrail&logoColor=4D8B31)
-![Postman](https://img.shields.io/badge/Postman-2b2b2b.svg?style=flat-square&logo=postman&logoColor=FF6C37)
-![HTML](https://img.shields.io/badge/HTML-2b2b2b.svg?style=flat-square&logo=html5&logoColor=E34F26)
-![React](https://img.shields.io/badge/React-2b2b2b.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![Trello](https://img.shields.io/badge/Trello-2b2b2b.svg?style=flat-square&logo=trello&logoColor=0079BF)
-![CSS](https://img.shields.io/badge/CSS-2b2b2b.svg?style=flat-square&logo=css3&logoColor=1572B6)
-![GitHub](https://img.shields.io/badge/GitHub-2b2b2b.svg?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2b2b2b.svg?style=flat-square&logo=node.js&logoColor=339933)
+![JavaScript](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-javascript.svg)
+![Git](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-git.svg)
+![TestRail](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-testrail.svg)
+![Postman](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-postman.svg)
+![HTML](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-html.svg)
+![React](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-react.svg)
+![Trello](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-trello.svg)
+![CSS](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-css.svg)
+![GitHub](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-github.svg)
+![Node.js](https://raw.githubusercontent.com/ZoiaPZP/ZoiaPZP/main/images/stack-node-js.svg)
 
 ### Wie man mich erreicht
 
