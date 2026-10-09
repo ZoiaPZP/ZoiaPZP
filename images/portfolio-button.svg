@@ -1,0 +1,8 @@
+<svg width="248" height="46" viewBox="0 0 248 46" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="246" height="44" rx="12" fill="#141026" stroke="#8f7bff" stroke-width="1.5"/>
+  <g transform="translate(20,13)" fill="none" stroke="#b7a6ff" stroke-width="1.7" stroke-linecap="round">
+    <circle cx="10" cy="10" r="9"/>
+    <path d="M1 10h18M10 1c3.6 2.4 3.6 15.6 0 18M10 1c-3.6 2.4-3.6 15.6 0 18"/>
+  </g>
+  <text x="50" y="29" font-family="'Segoe UI',Verdana,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d8ccff">Portfolio ansehen</text>
+</svg>
